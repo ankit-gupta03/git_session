@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-this is a git session
-=======
-This is server
->>>>>>> 8bdc2ece4f57cb796b3d33ebfbf630c8353ffaf3
+this is a git session 1
